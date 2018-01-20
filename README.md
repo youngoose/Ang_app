@@ -1,3 +1,1 @@
-# Ang4app
-
-## Angular practice
+# Angular practice
